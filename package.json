@@ -1,0 +1,12 @@
+{
+  "name": "createapp",
+  "version": "1.0.0",
+  "description": "used to load USSD codes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    // Your project dependencies go here
+  }
+}
